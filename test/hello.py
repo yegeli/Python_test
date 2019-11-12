@@ -5,6 +5,8 @@ print(message)
       'adf' \
       ''
 
+
+nizai mga mam dne
 asdfa
 adf
 adf
